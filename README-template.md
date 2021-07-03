@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/mobile-first-price-component-zVtLAi18F)
--   Live Site URL: [Netlify Live Site](https://crimson-single-price.netlify.app/)
+-   Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/mobile-first-huddle-landing-page-jvl3niNRs)
+-   Live Site URL: [Netlify Live Site](https://crimson-huddle-landing.netlify.app/)
 
 ## My process
 
